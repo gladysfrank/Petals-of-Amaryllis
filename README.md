@@ -34,7 +34,6 @@ Now, she is hunted. Not just by the corporation's impeccably polite and ruthless
 - Multiple endings
 - Pixel-art visuals & retro-style animations
 - Chiptune soundtrack
-- Atmospheric NVL mechanics
 
 ---
 
