@@ -1,13 +1,14 @@
 # Petals of Amaryllis
 
-![Cover Image](path/to/your/image.png)  
-*Replace `path/to/your/image.png` with the relative path to your image or a URL.*
+![Cover Image](https://github.com/gladysfrank/Petals-of-Amaryllis/blob/main/poa_cover.png)  
 
-[Coming soon on itch.io](https://pinkfiremage.itch.io/petals-of-amaryllis)  
+[![itch.io](https://img.shields.io/badge/itch.io-Coming%20Soon-ff69b4?logo=itch.io)](https://pinkfiremage.itch.io/petals-of-amaryllis)  
+![Genre](https://img.shields.io/badge/Genre-Visual%20Novel%20|%20Psychological%20|%20Mystery-blueviolet)  
+![Engine](https://img.shields.io/badge/Engine-Ren'Py-orange)  
+![Status](https://img.shields.io/badge/Status-In%20Development-yellow)  
 
-**Genre:** Visual Novel, Psychological, Mystery, Narrative-Driven  
-**Engine:** Ren'Py  
-**Status:** In Development
+---
+
 
 ---
 
