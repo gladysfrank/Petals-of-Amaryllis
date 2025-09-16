@@ -40,7 +40,7 @@ Now, she is hunted. Not just by the corporation's impeccably polite and ruthless
 ## PROJECT MANAGEMENT
 Agile-style workflow.
 
-- **[Game Kanban](link-to-your-kanban-board)** – Visual task board for tracking development stages
+- **[Game Kanban](https://github.com/users/gladysfrank/projects/2)** – Visual task board for tracking development stages
 - **[Game Issues](link-to-your-issues)** – Track bugs, ideas, and features
 - **Milestones** – Plan sprints or major feature releases
 - **Backlog** – A list of ideas to implement later
