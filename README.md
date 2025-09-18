@@ -11,15 +11,15 @@
 ---
 
 ## Table of Contents
-- [Logline](#-logline)
-- [Story](#-story)
-- [The World](#-the-world)
-- [Unique Selling Points](#-unique-selling-points)
-- [Target Audience](#-target-audience)
-- [Platforms](#-platforms)
-- [Project Management](#-project-management)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [Logline](#logline)
+- [Story](#story)
+- [The World](#the-world)
+- [Unique Selling Points](#unique-selling-points)
+- [Target Audience](#target-audience)
+- [Platforms](#platforms)
+- [Project Management](#project-management)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
@@ -100,7 +100,7 @@ Development is tracked using an Agile-style workflow:
 
 ---
 
-## ©️ License
+## License
 This repository contains **project management files, documentation, and source code for the game engine.**
 All **story content, character art, backgrounds, and music** are the intellectual property of **Pinkfiremage** and are **not open source.**
 The Ren'Py project code is licensed under the **MIT License**.
