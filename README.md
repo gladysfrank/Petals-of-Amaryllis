@@ -70,9 +70,11 @@ The WonderNet 999: A hyper-realistic virtual world that serves as both humanity'
 ---
 
 ## Target Audience
-- Adults (18–35) seeking mature, narrative-driven experiences.
-- Fans of psychological horror, cyberpunk, and deconstructive genre fiction.
-- Visual novel enthusiasts who appreciate branching narratives and deep world-building.
+- Fans of psychological horror, denpa, and cosmic horror.
+- Players who enjoy morally complex narratives and flawed characters.
+- Visual novel and kinetic novel enthusiasts.
+- Those who appreciate retro-inspired pixel art and atmospheric chiptune soundtracks.
+- Gamers interested in branching stories, multiple endings, and immersive NVL storytelling.
 
 ---
 
