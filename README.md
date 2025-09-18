@@ -89,7 +89,7 @@ Development is tracked using an Agile-style workflow:
 
 - **[Kanban Board](https://github.com/users/gladysfrank/projects/2)** – Track the progress of features and tasks.
 - **[Issues](../../issues)** – Report bugs, suggest ideas, or request features.
-- **Milestones** – Used to plan and track major version releases.
+- **[Milestones](../../milestones)** – Used to plan and track major version releases.
 - **Devlog** – Regular updates are posted in the project's Discussions.
 
 ---
