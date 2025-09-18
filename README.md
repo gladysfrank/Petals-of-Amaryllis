@@ -4,7 +4,7 @@
 ![Cover Image](https://github.com/gladysfrank/Petals-of-Amaryllis/blob/main/poa_cover.png)
 
 [![itch.io](https://img.shields.io/badge/itch.io-Coming%20Soon-ff69b4?logo=itch.io)](https://pinkfiremage.itch.io/petals-of-amaryllis)
-![Genre](https://img.shields.io/badge/Genre-Psychological%20Horror%20|%20Denpa%20|%20Cyberpunk-blueviolet)
+![Genre](https://img.shields.io/badge/Genre-Psychological%20Horror%20|%20Denpa%20|%20Cosmic%20Horror-blueviolet)
 ![Engine](https://img.shields.io/badge/Engine-Ren'Py-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
 
