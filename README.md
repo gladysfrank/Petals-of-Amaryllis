@@ -24,7 +24,7 @@
 ---
 
 ## Logline
-A psychological denpa horror about guilt, toxic sisterhood, and the rotten core of a perfect world.
+Flawed heroes, deadly secrets, and a world that punishes those who refuse to forget.
 
 ---
 
