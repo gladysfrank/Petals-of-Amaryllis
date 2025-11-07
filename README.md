@@ -24,36 +24,24 @@
 ---
 
 ## Logline
-Flawed heroes, deadly secrets, and a world that punishes those who refuse to forget.
+In a dystopian future, the ronin return. Elite women, discarded, battling for survival against tech and tyranny.
 
 ---
 
 ## Story
-The world is saved. The cost is forgotten.
-
-In a neon-drenched future, humanity finds solace in the hyper-realistic virtual world of WonderNet 999, maintained by the benevolent Sweet-N-Crispy Magical Corp. Its guardians are the Battle Bride-maidens—elite warriors, beloved celebrities, and the saviours of mankind. But their beautiful image is a lie.
-
-Cherry Blossompunch knows the rot beneath the petals.
-
-Once a renowned battle bride-maiden, Cherry now lives in self-imposed exile. She is consumed by the guilt of a training incident that left her best friend and partner, Lila, a hollow shell in a hospital bed. While the corporation cleared her of all blame, Cherry remains shackled by the memory, visiting Lila's silent form in a relentless ritual of penance.
-
-Her life is a quiet struggle under the immense shadow of her mother, Amaryllis—the first and most legendary bride-maiden, martyred in service. But Cherry is beginning to suspect her mother's legacy, and the world she saved, is built on a foundation of blood and lies.
-
-The fragile peace shatters when Cherry discovers a chilling pattern—a digital ghost in the machine—that suggests Lila's accident was no accident at all. Her quiet investigation triggers a silent alarm.
-
-Now, she is hunted. Not just by the corporation's impeccably polite and ruthless enforcers, but by her former sisters. The Bride-maidens operate on a brutal social Darwinist creed: *"prune the weak."* They see Cherry's quest as a betrayal of their sacred tenets and are eager to "Winter" a fallen sister who refuses to forget.
+Once the strongest, the Battle Bride-maidens now drift through a world that doesn’t need them. Discarded, their power forgotten, their purpose gone. In the quiet ruin of their glory, a woman, rumoured to be Amaryllis’s daughter, appears at the gates of the Sweet-N-Crispy clan, carrying a request no one can yet make sense of.
 
 ---
 
 ## The World
 <details> <summary>Click to expand world details (contains minor spoilers)</summary> <br>
-Sweet-N-Crispy Magical Corp: A faceless, utilitarian corporation that commodifies hope and sells salvation, hiding horrific experiments behind a facade of benevolence.
+Sweet-N-Crispy Clan: Once the patrons of the world’s saviors, now a sprawling mansion and courtyard where power, protocol, and prestige hide a legacy of secrets and ruthless ambition.
 
-Battle Bride-Maidens: A toxic, elite warrior culture that masks its brutal social Darwinism under public celebrity. A mix of human initiates and unstable artificial clones.
+Battle Bride-Maidens: Elite women who once defended humanity, now discarded and struggling. Their strength is admired, feared, and exploited, while only a few find a place in a society that no longer values them.
 
-The Unreturned: Victims of the system, left in a vegetative state, their neural energy harvested to power the corporate utopia.
+The Unreturned: Those who pushed too far, who broke under expectation or experiment, left as husks. They linger as silent reminders of what the world discards.
 
-The WonderNet 999: A hyper-realistic virtual world that serves as both humanity's refuge and its cage.
+WonderNet 999: A shimmering virtual realm, humanity’s refuge and its cage. The world beyond the screens thrives, while the heroes who built it are forgotten.
 
 </details>
 
